@@ -27,7 +27,7 @@ src/
 ├── Filtro.java
 ├── GeoLocalizacion.java
 ├── Horario.java
-├── Main.java
+├── NexoEDU.java
 ├── Materia.java
 ├── Material.java
 ├── Moderador.java
@@ -74,14 +74,14 @@ Desde la carpeta `src`:
 
 ```sh
 javac *.java
-java Main
+java NexoEDU
 ```
 
 ---
 
 ## Ejemplo de Uso
 
-La clase `Main.java` incluye una demo de:
+La clase `NexoEDU.java` incluye una demo de:
 
 - Registro e interacción de usuarios (estudiantes, invitados)
 - Creación de docentes, materiales y avisos
@@ -96,10 +96,3 @@ La clase `Main.java` incluye una demo de:
 - Código Java orientado a objetos, modular y fácilmente extensible.
 - Sin dependencias externas, solo Java estándar.
 
----
-
-## Créditos
-
-Trabajo académico para la Facultad de Tecnología – Universidad Mayor de San Simón (UMSS), 2025  
-Desarrollado por: [Tu Nombre o Equipo]  
-Asesor: [Nombre del docente o tutor, si aplica]
