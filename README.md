@@ -101,9 +101,9 @@ La clase `NexoEDU.java` incluye una demo de:
 ## Créditos
 
 Trabajo académico para la Facultad de Tecnología – Universidad Mayor de San Simón (UMSS), 2025  
-Desarrollado por: [Axel Javier Colque Rodriguez 
+Desarrollado por: 
+Axel Javier Colque Rodriguez 
 Darlyn Alejandra Veliz Mamani
 Emerson Deyvis Sandagorda Salvatierra 
 Fabian Ignacio Vela Jimenez
 Julio Elias Alba Urquieta
-]  
